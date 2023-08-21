@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WorkoutApp</string>
+
+    <string name="start">START</string>
+    <string name="startImage">Start image</string>
+    <string name="getReady">GET READY FOR</string>
+</resources>
